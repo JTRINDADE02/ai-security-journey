@@ -1,2 +1,2 @@
 # ai-security-journey
-My 12-month journey from it support AI security / MlSecOps Engineer
+My 12-month journey from IT Support AI Security / MLSecOps Engineer
