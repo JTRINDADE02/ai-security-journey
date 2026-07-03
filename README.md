@@ -1,110 +1,139 @@
-# 🛡️ AI Security Journey
+<div align="center">
 
-> My 12-month journey from IT Support (N1) to **AI Security / MLSecOps Engineer**.
+# AI Security Journey
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellowtps://img.shields.io/badge/target-July%202027-green
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+### From IT Support to AI Security / MLSecOps Engineer
 
----
+*A 12-month structured learning path, publicly documented.*
 
-## 👋 About Me
+https://img.shields.io/badge/status-in%20progress-yellow?style=for-the-badge
+https://img.shields.io/badge/started-July%202026-blue?style=for-the-badge
+https://img.shields.io/badge/target-July%202027-green?style=for-the-badge
+https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge
 
-Hi! I'm **João Deivid Trindade Vasques**, IT Support professional based in São José, SC, Brazil.
-
-- 💼 Currently working as **IT Support (N1/N2)** — Microsoft 365, Windows/Mac, pfSense, Bitdefender GravityZone
-- 🎓 Studying **Cybersecurity** at university
-- 🚀 Founder of **Vasques Tech** — IT solutions for residential and business clients
-- 🎯 Transitioning to **AI Security / MLSecOps Engineer**
+</div>
 
 ---
 
-## 🎯 Mission
+## About
 
-Build the skills, portfolio, and credentials required to work as an **AI Security Engineer** or **MLSecOps Engineer** within 12 months.
+I am João Deivid Trindade Vasques, an IT professional based in São José, SC, Brazil.
 
-Focus area: **Build & Secure** function — hardening AI/ML pipelines, implementing guardrails, and securing LLM deployments.
-
----
-
-## 🗺️ 12-Month Roadmap
-
-| Phase | Months | Focus | Deliverable |
-|---|---|---|---|
-| **1 — Foundation** | 1–3 | Python, ML fundamentals, Cloud, Docker | 3 GitHub projects |
-| **2 — AI Security Core** | 4–6 | OWASP LLM Top 10, MITRE ATLAS, Red & Blue Team | 3 GitHub projects |
-| **3 — MLSecOps** | 7–9 | Secure ML pipelines, Kubernetes, Cloud AI security | 3 GitHub projects |
-| **4 — Certification & Job Hunt** | 10–12 | CompTIA SecAI+ / CAISP, portfolio polish, applications | Certified + hired |
+- IT Support (N1/N2): Microsoft 365, Windows/Mac, pfSense, Bitdefender GravityZone.
+- Cybersecurity undergraduate student.
+- Founder of Vasques Tech, delivering IT solutions for residential and business clients.
+- Currently transitioning to AI Security and MLSecOps Engineering.
 
 ---
 
-## 📅 Monthly Plan
+## Mission
 
-### 🏗️ Phase 1 — Foundation
-- **Month 1** — Python + Git professional → `security-log-analyzer`
-- **Month 2** — Machine Learning fundamentals → `ml-phishing-detector`
-- **Month 3** — Cloud (Azure) + Docker → `dockerized-ml-api`
+Build the technical skills, portfolio, and credentials required to work as an AI Security Engineer or MLSecOps Engineer within 12 months of consistent, structured study.
 
-### 🛡️ Phase 2 — AI Security Core
-- **Month 4** — OWASP Top 10 for LLM + MITRE ATLAS → `owasp-llm-lab`
-- **Month 5** — AI Red Team (offensive) → `llm-red-team-report`
-- **Month 6** — AI Blue Team (defensive) → `secure-llm-chatbot`
-
-### ⚙️ Phase 3 — MLSecOps
-- **Month 7** — Secure ML Pipeline → `ml-pipeline-secure`
-- **Month 8** — Kubernetes + Azure AI Security → `azure-ai-secure-deployment`
-- **Month 9** — Observability + Incident Response → `llm-observability-stack`
-
-### 🎓 Phase 4 — Certification & Job Hunt
-- **Month 10** — Certification study (CompTIA SecAI+ / CAISP)
-- **Month 11** — Portfolio polish + personal branding
-- **Month 12** — Applications + interviews
+Primary focus area: **Build & Secure**, that is, hardening AI/ML pipelines, implementing guardrails, and securing LLM deployments in production environments.
 
 ---
 
-## 🛠️ Tech Stack (Learning)
+## 12-Month Roadmap
 
-**Languages & Tools**
+| Phase | Months | Focus Areas | Outcome |
+|:-:|:-:|:--|:--|
+| 1. Foundation | 1 to 3 | Python, ML fundamentals, Cloud, Docker | 3 portfolio projects |
+| 2. AI Security Core | 4 to 6 | OWASP LLM Top 10, MITRE ATLAS, Red and Blue Team | 3 portfolio projects |
+| 3. MLSecOps | 7 to 9 | Secure ML pipelines, Kubernetes, Cloud AI security | 3 portfolio projects |
+| 4. Certification and Job Hunt | 10 to 12 | CompTIA SecAI+ or CAISP, portfolio polish, applications | Certified and hired |
+
+---
+
+## Projects
+
+### Phase 1: Foundation
+
+| # | Month | Project | Status |
+|:-:|:-:|:--|:-:|
+| 01 | 1 | Python log parser for pfSense and Windows Event Logs | In progress |
+| 02 | 2 | scikit-learn phishing email classifier | Locked |
+| 03 | 3 | FastAPI ML service in a hardened container | Locked |
+
+### Phase 2: AI Security Core
+
+| # | Month | Project | Status |
+|:-:|:-:|:--|:-:|
+| 04 | 4 | Practical lab covering all 10 OWASP LLM risks | Locked |
+| 05 | 5 | Full offensive assessment of a live LLM | Locked |
+| 06 | 6 | Chatbot hardened with guardrails and logging | Locked |
+
+### Phase 3: MLSecOps
+
+| # | Month | Project | Status |
+|:-:|:-:|:--|:-:|
+| 07 | 7 | End-to-end secure ML pipeline with DVC, MLflow and CI/CD | Locked |
+| 08 | 8 | Azure OpenAI deployment with private endpoints | Locked |
+| 09 | 9 | Metrics, alerts and incident response playbook for LLM | Locked |
+
+### Phase 4: Certification and Job Hunt
+
+| # | Month | Milestone | Status |
+|:-:|:-:|:--|:-:|
+| 10 | 10 | Certification study: CompTIA SecAI+ or CAISP | Locked |
+| 11 | 11 | Portfolio polish, personal branding, technical writing | Locked |
+| 12 | 12 | Job applications, interviews, offer | Locked |
+
+<sub>Status legend: Done, In progress, Locked (future).</sub>
+
+---
+
+## Tech Stack
+
+**Languages and Core Tools**
 `Python` `Bash` `Git` `Docker` `Kubernetes` `Terraform`
 
-**AI / ML**
+**AI and Machine Learning**
 `scikit-learn` `PyTorch` `Hugging Face` `Ollama` `LangChain` `MLflow` `DVC`
 
-**AI Security**
-`OWASP LLM Top 10` `MITRE ATLAS` `NIST AI RMF` `Garak` `PyRIT` `LLM Guard` `NeMo Guardrails` `Guardrails AI`
+**AI Security Frameworks and Tooling**
+`OWASP LLM Top 10` `MITRE ATLAS` `NIST AI RMF` `Garak` `PyRIT` `LLM Guard` `NeMo Guardrails` `Guardrails AI` `promptfoo`
 
-**Cloud & Security**
-`Azure` `Azure OpenAI` `Key Vault` `pfSense` `Bitdefender GravityZone`
-
----
-
-## 📚 Key Resources
-
-- 📖 [OWASP GenAI Security Project](https://genai.owasp.org)
-- 📖 [MITRE ATLAS](https://atlas.mitre.org)
-- 📖 [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
-- 📖 [Snyk Learn — OWASP Top 10 LLM](https://learn.snyk.io/learning-paths/owasp-top-10-llm/)
-- 📖 *The Developer's Playbook for Large Language Model Security* — Steve Wilson
+**Cloud and Security**
+`Azure` `Azure OpenAI` `Key Vault` `pfSense` `Bitdefender GravityZone` `Trivy` `Snyk`
 
 ---
 
-## 📈 Progress Tracker
+## Key Resources
 
-See [`PROGRESS.md`](./PROGRESS.md) for weekly check-ins and detailed learning log.
+**Frameworks and Standards**
+
+- OWASP GenAI Security Project: <https://genai.owasp.org>
+- MITRE ATLAS: <https://atlas.mitre.org>
+- NIST AI Risk Management Framework: <https://www.nist.gov/itl/ai-risk-management-framework>
+
+**Courses and Learning Paths**
+
+- Snyk Learn, OWASP Top 10 LLM: <https://learn.snyk.io/learning-paths/owasp-top-10-llm/>
+- Python for Everybody, Coursera: <https://www.coursera.org/specializations/python>
+- Microsoft Azure Security Engineer: <https://learn.microsoft.com/en-us/certifications/azure-security-engineer/>
+
+**Books**
+
+- *The Developer's Playbook for Large Language Model Security*, by Steve Wilson.
+- *Adversarial Machine Learning*, by Anthony D. Joseph et al.
 
 ---
 
-## 📬 Connect
+## Progress Tracker
 
-- 💼 LinkedIn: *(coming soon)*
-- 🌐 Vasques Tech: *(coming soon)*
-- 📍 São José, SC — Brazil
+Weekly check-ins, learning logs, wins and blockers are documented in the `PROGRESS.md` file at the root of this repository.
 
 ---
 
-## 📄 License
+## Contact
 
-MIT License — see [`LICENSE`](./LICENSE) for details.
+- LinkedIn: coming soon
+- Vasques Tech: coming soon
+- Location: São José, SC, Brazil
 
 ---
 
-⭐ If you're on a similar journey, feel free to star this repo and follow along!
+## License
+
+Released under the MIT License. See the `LICENSE` file for details.
