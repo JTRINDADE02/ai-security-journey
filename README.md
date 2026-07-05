@@ -6,10 +6,12 @@
 
 *A 12-month structured learning path, publicly documented.*
 
-https://img.shields.io/badge/status-in%20progress-yellow?style=for-the-badge
-https://img.shields.io/badge/started-July%202026-blue?style=for-the-badge
-https://img.shields.io/badge/target-July%202027-green?style=for-the-badge
-https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge
+<p>
+&labelColor=0D1117" alt="Status" />
+202026-1E40AF?style=for-the-badge&labelColor=0D1117" alt="Started" />
+ge/TARGET-JULY%202027-059669?style=for-the-badge&labelColor=0D1117" alt="Target" />
+E-MIT-475569?style=for-the-badge&labelColor=0D1117" alt="License" />
+</p>
 
 </div>
 
